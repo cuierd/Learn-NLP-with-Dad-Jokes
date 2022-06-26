@@ -1,0 +1,29 @@
+Cui Ding (olatname: cding)
+Matriculation Numbers: 21-718-945
+
+Mia Tatjana Egli (olatname: miaegl)
+Matriculation Numbers: 21-700-406
+
+
+
+(a) Advantages of TDD:
+	- The possible problems and corner cases are thought of in advance, most probably leading to a less buggy and more precise code (not outputting too much and not too little).
+	- It is easier to find the source of a mistake.
+	- The programmer will most likely have better-structured code and also understand their code better.
+
+	We are not sure whether we understand the question correctly. Because before we really structure 
+the codes of processing.py, we have already looked at the given test example, for example, 
+for the test_output_split_into_sentences_function, we already know that we should return a list,
+and the "\n" should be treated as a sentence, when implementing the code, we have a clearer structure
+For the second function, we know that we return a list of lists of strings, it is also very helpful. 
+
+
+(b) We tested the type of the output against our expectations.
+	We also tested the length of the output list.
+	We tested whether the element in a certain position of the output is right.
+	We tested whether the result is equal to our target.
+	
+(c) The task is doable but difficult to get the perfect output.
+	we spend almost 8-9 hours in it.
+	The unit test part is really helpful for understanding the lecture.
+	We find it somehow a little bit overwhelming to explore GitLab.
